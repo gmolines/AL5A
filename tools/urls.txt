@@ -1,11 +1,10 @@
 # Promotion
-https://#USER#@github.com/Corentin-Luc-Artaud/credirama.git;IDA
-https://#USER#@github.com/FrereB/AL1920.git;IDB
-https://#USER#@github.com/Dami246/CreditRama-AL-EquipeC.git;IDC
-https://#USER#@github.com/pns-si5-al-creditrama-d-1920/creditrama-team-d.git;IDD
-https://#USER#@github.com/the-final-codedown/si5-al-the-final-codedown.git;IDE
-https://#USER#@github.com/Prune11/AL-19-20.git;IDF
-https://#USER#@github.com/FlorianJuroszek/creditrama-n27-1920.git;IDG
-https://#USER#@github.com/Nadeur-Mosbah/BankOfAmerica.git;IDH
-https://#USER#@github.com/FontanyLegall-Brandon/AL-PayPouz;IDI
+https://#USER#@github.com/AlexandreLon/AL5A-TeamA.git;IDA
+https://#USER#@github.com/YanConigliaro/si5-al-le-cours-team-b.git;IDB
+https://#USER#@github.com/wak-nda/train-booking-al-20-21.git;IDC
+https://#USER#@github.com/ilyasELBANI/si5-al-team-d-2020-2021.git;IDD
+https://#USER#@github.com/benjivou/AL-class.git;IDE
+https://#USER#@github.com/PERES-Richard/Overload.git;IDF
+https://#USER#@github.com/Gladorme/si5-al-le-cours-team-g.git;IDG
+https://#USER#@github.com/JYassine/si5-team-h.git;IDH
 ## That's all folks
