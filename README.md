@@ -22,5 +22,6 @@ Schedule of deliveries, and feedback on the deliverables can be found [here](htt
 
 ## Lecture material
 - Week #1: [Overview](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_1_overview_v1.0.pdf), [Organisation](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_2_organisation_v0.9.pdf), [Case Study](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_3_case_study_v0.9.pdf), [Project](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_4_projet_v1.0.pdf)
-
+- Week #2: [Build the right system](https://github.com/gmolines/AL5A/blob/master/lectures/week1_2_1_build_the_right_system_v0.6.pdf)
+- Week #3: [Build the system right](https://github.com/gmolines/AL5A/blob/master/lectures/week1_3_1_build_the_system_right_v0.7/pdf)
 
