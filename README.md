@@ -15,9 +15,9 @@ Schedule of deliveries, and feedback on the deliverables can be found [here](htt
 - Next delivery: Tuesday, Sept. 29th at midnight. Scope definition, main scenarios
 - Tuesday, Oct 6th at midnight. Component diagram, roadmap
 - Nov 6th: POC ready, oral defense
-- March 5th, 2021: final demo, oral defense
-- March 9th, 2021: delivery of video
-- March 12th, 2021: if possible, written exam
+- March 5th, 2021: written exam, on Campus
+- March 9th, 2021: final demo, oral defense, remote
+- March 12th, 2021: delivery of video
 
 
 
